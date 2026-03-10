@@ -26,3 +26,6 @@ npm run dev
 - Click **code nodes** (right) to see linked conversations and data syncs
 - Click **sync lines** between chat and code to see what's being passed
 - Dimmed nodes are outside the current context — they don't consume tokens
+
+---
+Built with Vite + React
