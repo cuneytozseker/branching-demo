@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 const C = {
   bg: "#F3EDE4",
@@ -393,6 +394,7 @@ export default function App() {
           )}
         </div>
       </div>
+      <Analytics />
     </div>
   );
 }
